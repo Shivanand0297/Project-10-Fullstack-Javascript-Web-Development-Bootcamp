@@ -34,9 +34,9 @@
 
 ## About The Project
 
-Developer Landing Page using Pure HTML & CSS.
+Interior Design Home Page using Pure HTML & CSS.
 
-![Project-10: Interior Design Home Page](https://github.com/Shivanand0297/Project-9-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-9/9.png)
+![Project-10: Interior Design Home Page](https://github.com/Shivanand0297/Project-10-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-10/images/Screenshot%202022-08-25%20083913.png)
 
 
 
@@ -79,13 +79,15 @@ Source Code :
   - ✔ CSS Positioning
   - ✔ Flexbox
   - ✔ Background property 
-  - ✔ Box-shadow
+  - ✔ Transparent background
+  - ✔ Responsive for tablet screen size 768px
+  - ✔ fonts awesome icons integration
  - ✔ Git and Github
 <!-- NOTE -->
 
 ## Note
 
-For this project I took around `8 hours` to complete it. The major portion of my time spent in working on CSS Positions and flexbox.
+For this project I took around `6 hours` to complete it. The major portion of my time spent in working on CSS Positions and flexbox.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
@@ -142,8 +144,8 @@ For this project I took around `8 hours` to complete it. The major portion of my
 
 <!-- Project screenshot -->
 
-[product-screenshot]: https://github.com/Shivanand0297/Project-9-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-9/9.png
+[product-screenshot]: https://github.com/Shivanand0297/Project-10-Fullstack-Javascript-Web-Development-Bootcamp/blob/Project-10/images/Screenshot%202022-08-25%20083913.png
 
-[project-url]: https://shivanand-project-9.netlify.app/
+[project-url]: https://shivanand-project-10.netlify.app/
 
-[source-code]: https://github.com/Shivanand0297/Project-9-Fullstack-Javascript-Web-Development-Bootcamp
+[source-code]: https://github.com/Shivanand0297/Project-10-Fullstack-Javascript-Web-Development-Bootcamp
