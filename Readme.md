@@ -87,7 +87,7 @@ Source Code :
 
 ## Note
 
-For this project I took around `6 hours` to complete it. The major portion of my time spent in working on CSS Positions and flexbox.
+For this project I took around `6 hours` to complete it. The major portion of my time spent in working on CSS flexbox and on responsiveness.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
